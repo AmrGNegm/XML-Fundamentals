@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE family SYSTEM "5.dtd">
+<family> Al-Ali
+	<father> Ahmed
+		<ssn>123</ssn>
+		<age>22</age>
+		<salary>12345</salary>
+	</father>
+</family>
