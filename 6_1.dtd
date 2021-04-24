@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT family (father+)>
+<!ELEMENT father (name,son)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT son (#PCDATA)>
+
+<!ATTLIST family loc CDATA #FIXED "Alex">
+<!ATTLIST father sport (football|volleyball|tennis) "football">
+<!ATTLIST father ssn NMTOKEN #REQUIRED>
+<!ATTLIST father job (Engineer|Doctor|Teacher) "Teacher">
+<!ATTLIST son sport (Ping|Swim|Run) "Swim">
