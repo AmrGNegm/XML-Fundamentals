@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!ELEMENT family (#PCDATA|father)*>
-<!ELEMENT father (#PCDATA|ssn|age|salary)*>
-<!ELEMENT ssn (#PCDATA)>
-<!ELEMENT age (#PCDATA)>
-<!ELEMENT salary (#PCDATA)>
