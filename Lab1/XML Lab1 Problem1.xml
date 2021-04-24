@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE family SYSTEM "DTD Lab1 Problem1.dtd">
+<family>
+	<grandfather> Abd-ElMaksod
+		<father job="Engineer"> Gomaa
+			<mother>Mervat</mother>
+			<daughter age="19" job="Doctor">Amera</daughter>
+			<son age="19" sport="football">Amr</son>
+		</father>
+		<uncle>Omar</uncle>
+		<uncle>Shawky</uncle>
+		<aunt sons="2"/>
+	</grandfather>
+</family>
