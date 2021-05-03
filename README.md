@@ -1,4 +1,6 @@
-# XML-Fundamentals
+# XML-Fundamentals - ITI BI-Developer
+
+This repository contains all the resources and solution to quizzes given and asked in XML-Fundamentals - ITI BI-Developer.
 
 XML stands for eXtensible Markup Language.
 
